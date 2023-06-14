@@ -15,7 +15,7 @@ https://chatsappbygg.000webhostapp.com/ChatsApp/
 
 * Cuenta de pruebas (Esta cuenta no tiene amigos, ni mensajes registrados)
 
-Nombre usuario: Invitado/n
+Nombre usuario: Invitado
 Contraseña Invitado2000
 
 * Cuenta de pruebas (Este es el gran cantante canadiense, por tanto es amigo de todos y tiene mensajes con todos)
