@@ -15,9 +15,7 @@ Para importar los datos de prueba debe importar el .sql contenido en este prolle
 
 Cuenta de pruebas (Esta cuenta no tiene amigos, ni mensajes registrados)
 
-Nombre usuario: Invitado
-
-
+Nombre usuario: Invitado/n
 Contraseña Invitado2000
 
 Cuenta de pruebas (Este es el gran cantante canadiense, por tanto es amigo de todos y tiene mensajes con todos)
